@@ -30,10 +30,10 @@ I am a master student at Hokkaido University.
 </p>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=140 align="center" src="https://github-readme-stats.vercel.app/api?username=nobu-n2002&show_icons=true&theme=shadow_blue&hide=issues,contribs" />
+  <img height=160 align="center" src="https://github-readme-stats.vercel.app/api?username=nobu-n2002&show_icons=true&theme=shadow_blue&hide=issues,contribs" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=140 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nobu-n2002&layout=compact&langs_count=8&hide=jupyter%20notebook" />
+  <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nobu-n2002&layout=compact&langs_count=8&hide=jupyter%20notebook" />
 </a>
 
 \
