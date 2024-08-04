@@ -29,15 +29,15 @@ I am a master student at Hokkaido University.
   </a>
 </p>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=nobu-n2002&show_icons=true&theme=shadow_blue&hide=issues,contribs" />
+<a>
+  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=nobu-n2002&show_icons=true&theme=github_dark&hide=issues,contribs" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a>
   <img height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nobu-n2002&layout=compact&langs_count=8&hide=jupyter%20notebook" />
 </a>
 
 \
 **Repositories under development**
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nobu-n2002&repo=PixelFlow&show_owner=True&theme=shadow_blue)](https://github.com/nobu-n2002/PixelFlow)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nobu-n2002&repo=PixelFlow&show_owner=True&theme=github_dark)](https://github.com/nobu-n2002/PixelFlow)
 
