@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <a href="https://github.com/kawarimidoll/typograssy"><img alt="typograssy" src="https://typograssy.deno.dev/api?text=Nobuto%20NAKAMICHI's%20Profile%20"></a>
 </p>
 
-I am a master student at Hokkaido University.
+I'm a master student at Hokkaido University.
 
 **About me**
 - 🔭 I’m currently working on droplet evaporation models in the space utilization laboratory. 
