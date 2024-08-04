@@ -33,7 +33,7 @@ I am a master student at Hokkaido University.
   <img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=nobu-n2002&show_icons=true&theme=github_dark&hide=issues,contribs" />
 </a>
 <a>
-  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nobu-n2002&layout=compact&langs_count=8&hide=jupyter%20notebook" />
+  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nobu-n2002&layout=compact&langs_count=8&theme=github_dark&hide=jupyter%20notebook" />
 </a>
 
 \
