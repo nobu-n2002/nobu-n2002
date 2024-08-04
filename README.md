@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **nobu-n2002/nobu-n2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,7 +16,13 @@ Here are some ideas to get you started:
 <p align="center">
 <a href="https://github.com/kawarimidoll/typograssy"><img alt="typograssy" src="https://typograssy.deno.dev/api?text=Nobuto%20NAKAMICHI's%20Profile%20"></a>
 </p>
-  
+
+I am a master student at Hokkaido University.
+
+**About me**
+- 🔭 I’m currently working on droplet evaporation models in the space utilization laboratory. 
+- 🌱 I’m currently assisting with research on new flow simulations using immersed boundary methods in the computational fluid mechanics laboratory.
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=linux,ubuntu,cpp,py,opencv,blender,git,vim" />
@@ -26,9 +30,14 @@ Here are some ideas to get you started:
 </p>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=190 align="center" src="https://github-readme-stats.vercel.app/api?username=nobu-n2002&show_icons=true&theme=graywhite&hide=issues,contribs" />
+  <img height=190 align="center" src="https://github-readme-stats.vercel.app/api?username=nobu-n2002&show_icons=true&theme=moltack&hide=issues,contribs" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=190 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nobu-n2002&layout=compact&langs_count=8&card_width=320&hide=jupyter%20notebook" />
+  <img height=190 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nobu-n2002&layout=compact&langs_count=8&hide=jupyter%20notebook" />
 </a>
+
+\
+**Repositories under development**
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nobu-n2002&repo=PixelFlow&show_owner=True&theme=shadow_blue)](https://github.com/anuraghazra/github-readme-stats)
 
