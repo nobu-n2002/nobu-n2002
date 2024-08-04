@@ -39,5 +39,5 @@ I am a master student at Hokkaido University.
 \
 **Repositories under development**
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nobu-n2002&repo=PixelFlow&show_owner=True&theme=shadow_blue)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nobu-n2002&repo=PixelFlow&show_owner=True&theme=shadow_blue)](https://github.com/nobu-n2002/PixelFlow)
 
