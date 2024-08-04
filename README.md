@@ -24,7 +24,7 @@ I am a master student at Hokkaido University.
 - 🌱 I’m currently assisting with research on new flow simulations using immersed boundary methods in the computational fluid mechanics laboratory.
 
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a>
     <img src="https://skillicons.dev/icons?i=linux,ubuntu,cpp,py,opencv,blender,git,vim" />
   </a>
 </p>
